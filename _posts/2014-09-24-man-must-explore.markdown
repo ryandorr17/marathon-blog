@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
-subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+title:      "Welcome to the training program"
+subtitle:   "stuff"
+date:       2017-01-01 12:00:00
+author:     "Ryan Dorr"
 header-img: "img/post-bg-06.jpg"
 ---
 

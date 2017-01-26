@@ -1,15 +1,13 @@
 # Site settings
-title: Clean Blog
+title: R&R 2017 Marathon
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: ryandorr17@gmail.com
+copyright_name: b&r events
+description: "Ryan Dorr's marathon training blog for the 2017 Nashville Rock and Roll Marathon."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+url: "http://ryandorr17.github.io"
+github_username:  ryandorr17
+email_username:  ryandorr17@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
